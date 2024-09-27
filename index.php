@@ -1,2 +1,2 @@
 <?php
-require './controler/citasControler.php';
+require './view/citasView.php';

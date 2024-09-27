@@ -1,2 +1,2 @@
 <?php
-require './controler/editarControler.php';
+require './view/editarView.php';
